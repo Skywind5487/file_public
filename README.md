@@ -1,2 +1,2 @@
-# map_public
- the map for the channel 流星若風
+# file_public
+ the file for the channel 流星若風
